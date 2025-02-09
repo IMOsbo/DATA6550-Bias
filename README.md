@@ -4,7 +4,6 @@ _Spring 2025 DATA 6550 - Group 7_
 ## Overview
 
 We are looking at the UCI **Adult** dataset (<https://archive.ics.uci.edu/dataset/2/adult>). We are trying to uncover whether there is bias in the dataset based off race, gender, or other factors.
-=======
 
 ## Final Report
 The link below is to the shared one-drive Word document.
@@ -26,6 +25,8 @@ This folder contains **all** group members code contributions in separate folder
 
 ### Data (`/Data`)
 This folder contains the Kaggle UCI dataset as a `csv` files called `adult.csv`. It is comprised of `15` columns and `~32,000` rows.
+
+The dataset can be found at: <https://archive.ics.uci.edu/dataset/2/adult> (*a Kaggle Username & Password are needed*).
 
 ### Collaboration (`/Collaboration`)
 This folder holds the weekly word documents cronicaling our project progress and disussions.
